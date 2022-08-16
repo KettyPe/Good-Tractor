@@ -3043,7 +3043,7 @@ body {
     padding: 12px 28px;
   }
   .mainblock__container {
-    margin: 0px -15px;
+    padding: 0px;
   }
   .mainblock__image img,
 .mainblock__wrapper:before {
